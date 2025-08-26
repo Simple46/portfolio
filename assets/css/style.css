@@ -58,7 +58,7 @@
   --vegas-gold: hsl(253, 54%, 58%);
   --light-gray: hsl(0, 2%, 10%);
   --light-gray-70: hsla(0, 2%, 10%, 0.7);
-  --bittersweet-shimmer: hsl(0, 43%, 51%);
+  --bittersweet-shimmer: hsl(148, 93%, 11%);
 
   /**
    * typography
@@ -155,7 +155,8 @@
   --vegas-gold: hsl(239, 54%, 58%);
   --light-gray: hsl(0, 0%, 84%);
   --light-gray-70: hsla(0, 0%, 84%, 0.7);
-  --bittersweet-shimmer: hsl(0, 43%, 51%);
+  --bittersweet-shimmer: hsl(148, 93%, 11%);
+  
 
   /**
    * typography
