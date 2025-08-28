@@ -335,6 +335,7 @@ article.active {
 .typewriter{
   display: inline-block;
   font-family: monospace;
+  
 }
 
 
@@ -417,12 +418,10 @@ main {
 
 .info-content .title {
   color: var(--white-1);
-  background: var(--jet);
-  font-size: var(--fs-8);
+  font-size: var(--fs-7);
   font-weight: var(--fw-300);
-  width: max-content;
-  padding: 3px 12px;
-  border-radius: 8px;
+  letter-spacing: -0.25px;
+  display: inline;
 }
 
 .info_more-btn {

@@ -180,6 +180,7 @@ toggle.addEventListener('click', () => {
 const title = [
   "Frontend Developer",
   "Graphic Designer",
+  "Web Designer",
   "Fullstack Developer"
 ]
 
