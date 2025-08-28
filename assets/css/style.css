@@ -266,7 +266,7 @@ article {
 }
 .toggle{
   margin: 1rem auto;
-  cursor: pointer;
+  cursor: pointer;  
 }
 .toggle:hover{
   transform: scale(1.05);
@@ -1865,4 +1865,11 @@ textarea.form-input::-webkit-resizer { display: none; }
     gap: 3rem;
 
   }
+  .toggle{
+  position: absolute;
+  right: 7rem;
+  top: 1rem;
+
+  }
+ 
 }
