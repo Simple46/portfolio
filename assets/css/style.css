@@ -1867,7 +1867,7 @@ textarea.form-input::-webkit-resizer { display: none; }
   }
   .toggle{
   position: absolute;
-  right: 7rem;
+  right: 3rem;
   top: 1rem;
 
   }
